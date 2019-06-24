@@ -13,7 +13,7 @@
 ## 使用软件
 
 1. [网易MuMu虚拟机](https://mumu.163.com/) - 用于模拟安卓环境，并提取家居设备的TOKEN
-2. [米家APP 5.4.54 版本](localhost) - 用于提取家居设备的TOKEN
+2. [米家APP 5.4.54 版本](https://github.com/Johnny-Kao/python-miio/blob/master/Mi%20Home_v5.4.5.apk) - 用于提取家居设备的TOKEN
 3. [Rytilahti/python-miio](https://github.com/rytilahti/python-miio) - 操作指令
 
 ## 具体使用方式
